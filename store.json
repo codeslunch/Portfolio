@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is JavaScript?",
+    "answers": [
+      "A programming language",
+      "A markup language",
+      "A database",
+      "A framework"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "answers": [
+      "var",
+      "let",
+      "const",
+      "all of the above"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the result of '2' + 2 in JavaScript?",
+    "answers": [
+      "22",
+      "4",
+      "NaN",
+      "TypeError"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which operator is used to compare two values for equality in JavaScript?",
+    "answers": [
+      "==",
+      "===",
+      "!=",
+      "!=="
+    ],
+    "correct_answer": 1
+  }
+]
