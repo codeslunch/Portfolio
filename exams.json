@@ -1,0 +1,123 @@
+[
+    {
+      "question": "Who is the current President of the United States?",
+      "options": ["Joe Biden", "Donald Trump", "Barack Obama", "Bill Clinton"],
+      "correct_answer": "Joe Biden"
+    },
+    {
+      "question": "Who won the 2022 FIFA World Cup?",
+      "options": ["Argentina", "France", "Italy", "Brazil"],
+      "correct_answer": "Argentina"
+    },
+    {
+      "question": "What is the name of the new James Bond actor?",
+      "options": ["Daniel Craig", "Tom Hardy", "Regé-Jean Page", "Henry Cavill"],
+      "correct_answer": "Regé-Jean Page"
+    },
+    {
+      "question": "What is the name of the new Marvel Cinematic Universe film that was released in 2023?",
+      "options": ["Doctor Strange in the Multiverse of Madness", "Thor: Love and Thunder", "Black Panther: Wakanda Forever", "The Marvels"],
+      "correct_answer": "Doctor Strange in the Multiverse of Madness"
+    },
+    {
+      "question": "Who is the current CEO of Tesla?",
+      "options": ["Elon Musk", "Tim Cook", "Jeff Bezos", "Mark Zuckerberg"],
+      "correct_answer": "Elon Musk"
+    },
+    {
+      "question": "What is the name of the new reality TV show that is currently airing on Netflix?",
+      "options": ["The Kardashians", "Love Is Blind", "Too Hot to Handle", "The Circle"],
+      "correct_answer": "The Kardashians"
+    },
+    {
+      "question": "What is the name of the new book by Stephen King that was released in 2023?",
+      "options": ["Billy Summers", "The Institute", "Elevation", "Sleeping Beauties"],
+      "correct_answer": "Billy Summers"
+    },
+    {
+      "question": "What is the name of the new album by Taylor Swift that was released in 2023?",
+      "options": ["Red (Taylor's Version)", "Fearless (Taylor's Version)", "Evermore", "Midnights Memories"],
+      "correct_answer": "Red (Taylor's Version)"
+    },
+    {
+      "question": "What is the name of the new movie that is currently playing in theaters?",
+      "options": ["Top Gun: Maverick", "Jurassic World Dominion", "The Batman", "Lightyear"],
+      "correct_answer": "Top Gun: Maverick"
+    },
+    {
+      "question": "What is the name of the new TV show that is currently airing on HBO?",
+      "options": ["House of the Dragon", "Barry", "Succession", "Euphoria"],
+      "correct_answer": "House of the Dragon"
+    },
+    {
+      "question": "What is the name of the new video game that was released in 2023?",
+      "options": ["God of War Ragnarök", "Horizon Forbidden West", "Elden Ring", "The Legend of Zelda: Breath of the Wild 2"],
+      "correct_answer": "God of War Ragnarök"
+    },
+    {
+      "question": "What is the name of the new programming language that was released in 2023?",
+      "options": ["Rust", "Go", "Swift", "Python"],
+      "correct_answer": "Rust"
+    },
+    {
+      "question": "What is the name of the new space telescope that was launched in 2023?",
+      "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory"],
+      "correct_answer": "James Webb Space Telescope"
+    },
+    {
+      "question": "What is the name of the new medical breakthrough that was announced in 2023?",
+      "options": ["Gene editing", "Cure for cancer", "Artificial limbs", "Telepathy"],
+      "correct_answer": "Gene editing"
+    },
+    {
+        "question": "What is the name of the new social media platform that was released in 2023?",
+        "options": ["Tiktok", "Instagram", "Snapchat", "Clubhouse"],
+        "correct_answer": "Clubhouse"
+      },
+      {
+        "question": "What is the name of the new fashion trend that is popular in 2023?",
+        "options": ["Y2K", "Normcore", "Athleisure", "Grunge"],
+        "correct_answer": "Y2K"
+      },
+      {
+        "question": "What is the name of the new food trend that is popular in 2023?",
+        "options": ["Plant-based", "Alkaline", "Keto", "Paleo"],
+        "correct_answer": "Plant-based"
+      },
+      {
+        "question": "What is the name of the new travel destination that is popular in 2023?",
+        "options": ["Maldives", "Canary Islands", "Seychelles", "Iceland"],
+        "correct_answer": "Iceland"
+      },
+      {
+        "question": "What is the name of the new technology that is disrupting the industry in 2023?",
+        "options": ["Artificial intelligence", "Blockchain", "Virtual reality", "Gene editing"],
+        "correct_answer": "Blockchain"
+      },
+      {
+        "question": "What is the name of the new political movement that is gaining popularity in 2023?",
+        "options": ["Green Party", "Progressive Democrats", "Tea Party", "Libertarian Party"],
+        "correct_answer": "Green Party"
+      },
+      {
+        "question": "What is the name of the new book that is causing a stir in 2023?",
+        "options": ["The Ministry for the Future", "Station Eleven", "The Lincoln Highway", "The Book of Negroes"],
+        "correct_answer": "The Ministry for the Future"
+      },
+      {
+        "question": "What is the name of the new movie that is getting rave reviews in 2023?",
+        "options": ["Top Gun: Maverick", "The Fabelmans", "Elvis", "Nope"],
+        "correct_answer": "The Fabelmans"
+      },
+      {
+        "question": "What is the name of the new TV show that is everyone is talking about in 2023?",
+        "options": ["Stranger Things", "The Boys", "Euphoria", "Barry"],
+        "correct_answer": "Stranger Things"
+      },
+      {
+        "question": "What is the name of the new video game that is breaking records in 2023?",
+        "options": ["God of War Ragnarök", "Elden Ring", "The Legend of Zelda: Breath of the Wild 2", "Horizon Forbidden West"],
+        "correct_answer": "Elden Ring"
+      }
+]
+  
