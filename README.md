@@ -1,3 +1,3 @@
 ## Welcome to Codeslunch
 
-[Visit my website](https://www.codeslunch.com/)
+Codeslunch is an EdTech Platform that is targeted at creating.
